@@ -19,4 +19,4 @@ while running:
     # Pencereyi güncelle
     pygame.display.update()
 
-pygame.quit()
+pyg

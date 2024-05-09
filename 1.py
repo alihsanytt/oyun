@@ -16,7 +16,7 @@ while running:
     # Oyun işlemleri
     # Oyuncu kontrolleri, oyun mantığı vb.
 
-    # Pencereyi güncelle
+    # Pencereyi güncell
     pygame.display.update()
 
 pyg

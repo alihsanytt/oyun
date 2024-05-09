@@ -4,7 +4,7 @@ import random
 kullanici_bilgileri = {
     "telefon_numarasi": "5511918803",
     "dogrulama_kodu": None,
-    "ikinci_telefon_numarasi": "5557654321"  # İkinci telefon numarası örneği
+    "ikinci_telefon_numarasi": "5511918803"  # İkinci telefon numarası örneği
 }
 
 # SMS gönderme fonksiyonu (gerçek hizmet yerine kullanılacak)

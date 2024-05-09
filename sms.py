@@ -2,7 +2,7 @@ import random
 
 # Kullanıcı bilgileri (örnek olarak)
 kullanici_bilgileri = {
-    "telefon_numarasi": "5551234567",
+    "telefon_numarasi": "5511918803",
     "dogrulama_kodu": None,
     "ikinci_telefon_numarasi": "5557654321"  # İkinci telefon numarası örneği
 }

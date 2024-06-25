@@ -1,0 +1,9 @@
+kullanici_adi = input("Kullanıcı adı giriniz: ")
+sifre = getpass.getpass("Şifre giriniz: ")
+gercek_kullanici_adi = "yt"  # Değiştirin
+gercek_sifre = "123"  # Değiştirin
+
+if kullanici_adi == gercek_kullanici_adi and sifre == gercek_sifre:
+    print("Giriş Başarılı!")
+else:
+    print("Hatalı kullanıcı adı veya şifre.")
